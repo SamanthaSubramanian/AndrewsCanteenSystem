@@ -1,0 +1,22 @@
+﻿body {
+    background-image: url("red-fruit-and-vegetables-on-a-white-background-3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+.form-container {
+    border: 1px solid;
+    padding: 50px 60px;
+   
+    -webkit-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+    box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+    position: fixed;
+    background-color: blue;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -100px;
+}
+
